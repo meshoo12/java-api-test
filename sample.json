@@ -1,0 +1,13 @@
+[{
+        "user": {
+            "userID": "Adam555",
+            "name": "Test Account",
+            "id": 1055287,
+            "recentApps": null,
+            "employeeID": "2991KDS"
+        },
+        "user_state": {
+            "EmployeeLookUpDBId": 1055304,
+            "userID": "Adam555",
+            "username": "Adam555"
+}]
